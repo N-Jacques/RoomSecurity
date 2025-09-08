@@ -1,0 +1,13 @@
+This file is taking notes of the specifications of my project RoomSecurity.
+
+- application is mobile-based with IoT (will be working with a motion sensor/camera).
+- motion sensor's role is to detect entry and exit of room entrances without the need for extra scanning devices like fingerprint scanners and other biometric scanning devices
+- person can enter one or more rooms
+- rooms can allow one or more persons authorized entry, rooms can have more than one camera
+- cameras are limited to one room 
+- stores information:
+room: 			room ID ,room label, authorized persons to enter, room location
+person: 		person ID, person name, height, body shape, face, 
+entry details: 		date of entry, time of entry, authorized entry or not.
+recording details:	file name, date recorded, hour started, hour ended
+camera_details:		camera ID
