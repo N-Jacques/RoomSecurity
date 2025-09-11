@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 OPR/121.0.0.0" version="28.2.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.2.0" pages="5">
   <diagram name="Login" id="9E2N4sDGkaS0BLS4l5vD">
-    <mxGraphModel dx="1372" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1125" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,10 +91,10 @@
         <mxCell id="IpLJevtk19ECho7vZ42v-1" value="Signup to Login" style="shape=offPageConnector;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_M-3YP4SYS76HU_a_UMD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_M-3YP4SYS76HU_a_UMD-2" target="CJ6wcJ6D3vT2TR_J36Fz-20">
+        <mxCell id="_M-3YP4SYS76HU_a_UMD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_M-3YP4SYS76HU_a_UMD-2" target="CJ6wcJ6D3vT2TR_J36Fz-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_M-3YP4SYS76HU_a_UMD-2" value="&lt;div&gt;DISPLAY&lt;/div&gt;User login&amp;nbsp;&lt;div&gt;successful&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="_M-3YP4SYS76HU_a_UMD-2" value="&lt;div&gt;DISPLAY&lt;/div&gt;User login&amp;nbsp;&lt;div&gt;successful&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
